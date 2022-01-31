@@ -60,6 +60,10 @@ nav ul li a:hover{
     transition: all .3s;
 }
 
+.boton{
+    transform: translateX(1650%);
+}
+
 .drawer{
     color: var(--white-text);
     float: left;
